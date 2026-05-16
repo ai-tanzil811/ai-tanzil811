@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a Computer Science undergraduate student at the United International University, passionate about web development and machine learning. I'm currently focused on enhancing my skills in React.js and exploring the world of AI. I'm eager to collaborate on projects related to full-stack web development and machine learning applications.
+I'm a Computer Science undergraduate student at United International University, passionate about web development and machine learning. I'm currently focused on enhancing my skills in React.js and exploring the world of AI. I'm eager to collaborate on projects related to full-stack web development and machine learning applications.
 
 ## Tech Stack
 
@@ -13,13 +13,16 @@ I'm a Computer Science undergraduate student at the United International Univers
 * **Tools:** Git, VS Code, npm
 * **Databases:** MySQL
 
-
-
 ## 📊 GitHub Stats
 
-[![Ashraful's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai-tanzil811&show_icons=true&theme=radical)](https://github.com/ai-tanzil811)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ai-tanzil811&layout=compact&theme=radical)](https://github.com/ai-tanzil811)
+<p align="center">
+  <a href="https://github.com/ai-tanzil811">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ai-tanzil811&show_icons=true&theme=radical" width="48%" alt="Ashraful's GitHub Stats" />
+  </a>
+  <a href="https://github.com/ai-tanzil811">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ai-tanzil811&layout=compact&theme=radical" width="48%" alt="Top Langs" />
+  </a>
+</p>
 
 ## Connect with Me
 
