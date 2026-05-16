@@ -15,11 +15,12 @@ I'm a Computer Science undergraduate student at the United International Univers
 
 
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-[![Ashraful Islam Tanzil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ai-tanzil811&show_icons=true&theme=radical)](https://github.com/ai-tanzil811)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ai-tanzil811&layout=compact&theme=radical)](https://github.com/ai-tanzil811)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ai-tanzil811&show_icons=true&theme=radical" alt="Ashraful's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-tanzil811&layout=compact&theme=radical" alt="Top Langs" width="48%" />
+</p>
 
 ## Connect with Me
 
